@@ -1,3 +1,4 @@
+#Shaposhnik Vladislav IB/b-21-1-o Today is 12 September
 from struct import *
 from random import randint
 from math import log
